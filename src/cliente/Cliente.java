@@ -79,7 +79,7 @@ public class Cliente {
                 "\n CPF: " + getCPF() +
                 "\n email: " + getEmail() +
                 "\n usuario: " + getUsuario() +
-                "\n numeroTel: " + getNumeroTel());
+                "\n telefone: " + getNumeroTel());
     }
 
 }

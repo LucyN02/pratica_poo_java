@@ -1,4 +1,4 @@
-package game_store;
+package game;
 
 public class GamePC extends Game{
     String SistemaOperacional;

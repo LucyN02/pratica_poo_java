@@ -1,4 +1,4 @@
-package game_store;
+package game;
 
 public class TestaGame {
     public static void main(String [] arg){

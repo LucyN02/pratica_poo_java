@@ -1,4 +1,4 @@
-package game_store;
+package game;
 
 public class GameConsole extends Game{
     String TipoConsole;
