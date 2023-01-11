@@ -6,18 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2ea48678-1d4e-448a-8285-17b59c71873f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cliente/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cliente/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cliente/ClientePessoaFisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cliente/ClientePessoaFisica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cliente/ClientePessoaJuridica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cliente/ClientePessoaJuridica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cliente/TestaClientePessoaFisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cliente/TestaClientePessoaFisica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cliente/TestaClientePessoaJuridica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cliente/TestaClientePessoaJuridica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursos/CursoEspecialização.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursos/CursoEspecialização.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursos/CursoLivre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursos/CursoLivre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursos/TestaCurso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursos/TestaCurso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/GameConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameConsole.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/GamePC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GamePC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/TestaGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/TestaGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,8 +1,8 @@
 package cursos;
 
-public class CursoEspecialização extends Curso{
+public class CursoEspecializaçao extends Curso{
     boolean gradeCurricular;
-    public CursoEspecialização(String nome, String formacao, String duracao, String tipo, int valor, boolean gradeCurricular) {
+    public CursoEspecializaçao(String nome, String formacao, String duracao, String tipo, int valor, boolean gradeCurricular) {
         super(nome, formacao, duracao, tipo, valor);
         this.gradeCurricular = gradeCurricular;
     }

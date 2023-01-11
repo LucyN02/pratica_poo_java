@@ -18,7 +18,7 @@ public class TestaCurso {
                 "Alura");
         curso2.visualizar();
 
-        CursoEspecialização curso3 = new CursoEspecialização(
+        CursoEspecializaçao curso3 = new CursoEspecializaçao(
                 "Ciência da Computação",
                 "Bacharelado",
                 "8 semestres",
